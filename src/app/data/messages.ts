@@ -27,7 +27,7 @@ export const WISH_MESSAGES = [
   "May all your delulu come trululu.. ",
   "Wishing an awesome family with you....",
   "We will have a lot of mini Hamoodies and Kokies 🐻 ",
-  "Waiting for our Wedding to be finally be named Miss Ahmed Samy💕.. ",
+  "Waiting for our Wedding to be finally be named Mrs Ahmed Samy💕.. ",
   "You are a limited edition with unlimited potential.. ",
   "You are flippin' awesome.. ",
   "Wishing you a rizzful year ahead.. ",
